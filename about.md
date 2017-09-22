@@ -6,7 +6,7 @@ date: 2017-03-01
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
 <p>
-一个即将走出象牙塔的 Maker「未更新」<a href="{{ site.baseurl }}/jianli.pdf" target="_blank"> 「我的简历」 </a>    
+工作了五年的开发者 <a href="{{ site.baseurl }}/库波-全栈开发工程师.pdf" target="_blank"> 「我的简历」 </a>    
 
 
 <div style="color:#FF6633">
@@ -69,8 +69,8 @@ I’m a single-dog.  But codes and godgirl are my favorite.  Life is colorful, t
 	}
 </script>
 
-<p>邮箱：robotkang@foxmail.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：kang1390305137</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
-	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：robotkang</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
+<p>邮箱：darling_shadow@126.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：darling_shadow</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
+	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">邮箱：darling_shadow</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
  
 <p>
 <a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
