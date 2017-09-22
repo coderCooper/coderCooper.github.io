@@ -144,9 +144,4 @@ var duoshuoQuery = {short_name:"robotkang"};
 </html>
 
 
-<p>
-<a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>  
-</p>
-
-
 
