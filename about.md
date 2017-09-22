@@ -6,17 +6,17 @@ date: 2017-03-01
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
 <p>
-工作了五年的开发者 <a href="{{ site.baseurl }}/库波-全栈开发工程师.pdf" target="_blank"> 「我的简历」 </a>    
+工作了五年的开发者 <a href="{{ site.baseurl }}/kubo.pdf" target="_blank"> 「我的简历」 </a>    
 
 
 <div style="color:#FF6633">
-<p>	三尺微命，一介书生。求学于卫星湖畔，黄瓜山下，欲潜心研究智能机器人开发应用之道。然所学颇杂，对诸多方面均有涉猎，喜欢研究一些新技术和关注一些最新的科技~
+<p>	工作五年了，学到了不少东西，在HTML上还是个小白，此博客也是借鉴的~
 </p>
 </div>
 <p>
-平时喜欢整理个人博客，逛逛技术论坛     
+平时喜欢整理个人博客，看看电影，逛逛技术论坛 
 <p>
-喜欢日本，想着如果有机会一定会去日本生活一段时间        
+喜欢旅游，却被金钱所羁绊        
 <div style="color:#008B00">
 <p>
 喜欢Spoken English，虽然现在很渣，但一直在努力...        
@@ -24,10 +24,9 @@ date: 2017-03-01
 
 </div>
 <p>
-同时喜欢老罗和晓松，虽然他俩还撕逼，罗跟谁不撕逼，爱听老罗的单口相声           
+喜欢沉思，因为想让上帝发笑           
 <p>
-I’m a single-dog.  But codes and godgirl are my favorite.  Life is colorful, this website   is a window which used to present the color of my life.       
-
+哈哈哈哈.       
 <p>
 
 <h3> PastTime</h3>   
@@ -60,7 +59,7 @@ I’m a single-dog.  But codes and godgirl are my favorite.  Life is colorful, t
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/darling-shadow/darling-shadow.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <h3> 联系方式 </h3>         
 <script>
