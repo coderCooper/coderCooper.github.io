@@ -6,7 +6,8 @@ tag: 闲言碎语
 ---             
 hello,world
 ----------
->          
+> System.out.print("hello,world");
+> NSLog(@"hello,world");
 
 -------------------------------
 本文由darling_shadow完成，谢谢。
