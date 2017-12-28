@@ -2,7 +2,7 @@
 layout: post
 title: 为什么用alloc & init
 date: 2014-05-29
-tag: 闲言碎语
+tag: iOS技术
 ---             
 
 <h3>前言</h3>
