@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么用alloc & init
-date: 2016-05-29
+date: 2014-05-29
 tag: 闲言碎语
 ---             
 
