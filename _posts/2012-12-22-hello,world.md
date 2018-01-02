@@ -12,13 +12,11 @@ hello,world
 <h3>Java</h3>
 ```
 System.out.print("hello,world");
-
 ```
 
 <h3>iOS</h3>
 ```
 NSLog(@"hello,world");
-
 ```
 -------------------------------
 本文由darling_shadow完成，谢谢。
