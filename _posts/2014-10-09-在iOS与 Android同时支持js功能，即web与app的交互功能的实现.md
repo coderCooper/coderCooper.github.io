@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 ios 与 android 同时支持js功能，即web与app的交互功能的实现.md
+title: 在iOS与 Android同时支持js功能，即web与app的交互功能的实现
 date: 2014-10-09
 tag: Android技术
 ---             
