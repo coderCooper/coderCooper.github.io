@@ -178,8 +178,6 @@ public class dampHorizontalScrollView extends HorizontalScrollView {
 
 ```
 
-<h2>总结</h2>
-
 -------------------------------
 本文由darling_shadow整理完成，谢谢。
  
