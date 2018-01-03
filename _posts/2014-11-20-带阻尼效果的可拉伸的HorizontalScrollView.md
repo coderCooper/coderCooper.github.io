@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Android]带阻尼效果的可拉伸的HorizontalScrollView
+title: 带阻尼效果的可拉伸的HorizontalScrollView
 date: 2014-11-20
 tag: Android技术
 ---             

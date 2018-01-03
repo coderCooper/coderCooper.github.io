@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [iOS]为什么用alloc & init
+title: 为什么用alloc & init
 date: 2014-05-29
 tag: iOS技术
 ---             
