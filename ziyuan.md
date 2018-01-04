@@ -20,20 +20,22 @@ title: 资源「USEFUL LINKS」
 
 <P>   -->
 <h3>收藏的网站</h3>
-<p>
-<a href="https://www.processon.com/" target="_blank">在线作图</a>- 支持流程图、思维导图、原型图、UML、网络拓扑图等...&nbsp;&nbsp;
-<a href="https://wangpan007.com/" target="_blank">网盘007</a>- 网盘，资料搜索..&nbsp;&nbsp;
-<a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&nbsp;&nbsp;
+<br>
+<a href="https://www.processon.com/" target="_blank">在线作图</a>- 支持流程图、思维导图、原型图、UML、网络拓扑图等...
+<br>
+<a href="https://wangpan007.com/" target="_blank">网盘007</a>- 网盘，资料搜索..
+<br>
+<a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog...
 
-<p>
+<br>
 <a href="http://www.86ditu.com" target="_blank">卫星地图「谷歌」</a>- 来找找你家的房顶吧...
 
-<p>
+<br>
 <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　
 
 
 <h3> Others</h3>  
- <p> 
+<p> 
 Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a> &nbsp;&nbsp; <a  href="http://nav.templatesy.com/"  >Templatesy</a>-前端网址导航.
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
