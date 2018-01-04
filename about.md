@@ -43,36 +43,14 @@ date: 2017-03-01
 </p>
 </div>
 <p>
-趁我在还能看得进书写得动代码的年纪，努力一回，看看这平庸的资质究竟能发挥几分。
+	趁我在还能看得进书写得动代码的年纪，努力一回，看看这平庸的资质究竟能发挥几分。
+</p>
+
+<h3> 联系方式 </h3>
 
 <p>
-
-<h3> Ps </h3>   
-<p>
-如果你想搭建一个跟我一样的博客，可以看
-<a href="/2017/03/HowToCreateBlog/"> Jekyll+Github个人博客构建之路 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/darling-shadow/darling-shadow.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<h3> 联系方式 </h3>         
-<script>
-	function mousemethod(op,imgid){
-	document.getElementById(imgid).style.display=op;
-	}
-</script>
-
-<p>邮箱：darling_shadow@126.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：darling_shadow</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
-	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">邮箱：darling_shadow</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
- 
-<p>
-<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
+	邮箱：darling_shadow@126.com &emsp;
+</p>
 </p>
 
 
