@@ -2,7 +2,7 @@
 layout: post
 title: iOS中的Tagged Pointer的见解
 date: 2014-11-20
-tag: Android技术
+tag: iOS技术
 ---             
 
 <h2>前言</h2>
@@ -60,6 +60,7 @@ bigNumber pointer is 0x10921ecc0
 1. Tagged Pointer专门用来存储小的对象，例如NSNumber和NSDate
 2. Tagged Pointer指针的值不再是地址了，而是真正的值。所以，实际上它不再是一个对象了，它只是一个披着对象皮的普通变量而已。所以，它的内存并不存储在堆中，也不需要malloc和free。
 3. 在内存读取上有着3倍的效率，创建时比以前快106倍。
+
 由此可见，苹果引入Tagged Pointer，不但减少了64位机器下程序的内存占用，还提高了运行效率。完美地解决了小内存对象在存储和访问效率上的问题。
 
 <h2>注意isa指针</h2>
