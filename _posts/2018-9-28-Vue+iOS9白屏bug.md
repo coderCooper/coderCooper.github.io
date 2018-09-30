@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vue+iOS9白屏bug.md
+title: Vue+iOS9白屏bug
 date: 2018-9-28
 tag: iOS技术
 ---
