@@ -19,6 +19,94 @@ tag: iOS技术
 
 <h3>具体流程</h3>
 <h4>数据结构</h4>
+数据经过和后端开发讨论了几版，最终确定如下：
+{
+    "id": 10086,
+    "package_id": 128,
+    "brand_name": "三全",
+    "series_name": "千丝抓饼",
+    "spu_name": "",
+    "spu_alias": "",
+    "type": 1,
+    "sales_entity_id": 2,
+    "default_item_id": "409",
+    "default_item_type": "1",
+    "standard": "320g/袋",
+    "sku_info": [
+      {
+        "key": "口味",
+        "values": [
+          {
+            "standard_value": "葱香味",
+            "values": [
+              409
+            ]
+          },
+          {
+            "standard_value": "辣酱",
+            "values": [
+              410
+            ]
+          },
+          {
+            "standard_value": "原味",
+            "values": [
+              411
+            ]
+          }
+        ]
+      }
+    ],
+    "items": {
+      "409": [
+        {
+          "item_id": "409",
+          "item_type": "1",
+          "unit_name": "1袋装",
+          "stock": 1084,
+          "price": 700,
+          "seller_id": "2"
+        }
+      ],
+      "410": [
+        {
+          "item_id": "410",
+          "item_type": "1",
+          "unit_name": "1袋装",
+          "stock": 1302,
+          "price": 700,
+          "seller_id": "2"
+        }
+      ],
+      "411": [
+        {
+          "item_id": "411",
+          "item_type": "1",
+          "unit_name": "1袋装",
+          "stock": 1095,
+          "price": 700,
+          "seller_id": "2"
+        }
+      ]
+    },
+    "image": {
+      "409": "xxx409.jpg",
+      "410": "xxx410.jpg",
+      "411": "xxx411.jpg"
+    },
+    "name": {
+      "409": "三全千丝抓饼320g葱香味",
+      "410": "三全千丝抓饼320g辣酱",
+      "411": "三全千丝抓饼320g原味"
+    },
+    "alias": {
+      "409": "",
+      "410": "",
+      "411": ""
+    }
+  }
+
+ 数据结构确定了，然后进入开发阶段了。
 
 OK，完成！
 
